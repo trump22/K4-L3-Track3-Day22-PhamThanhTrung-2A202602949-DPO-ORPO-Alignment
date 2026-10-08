@@ -1,0 +1,11 @@
+{
+  "train_runtime": 2055.315,
+  "train_samples_per_second": 0.389,
+  "train_steps_per_second": 0.049,
+  "total_flos": 1.3355440930351104e+16,
+  "train_loss": 0.6750867509841919,
+  "epoch": 1.0,
+  "gpu_peak_allocated_runtime_gb": 6.954758144,
+  "gpu_peak_reserved_runtime_gb": 15.430844416,
+  "peak_scope": "entire runtime, not reset between SFT and DPO"
+}

@@ -1,0 +1,105 @@
+{
+  "condition": "fresh Python process without importing unsloth",
+  "model": "Skywork/Skywork-Reward-V2-Qwen3-4B",
+  "torch": "2.11.0+cu130",
+  "transformers": "5.17.0",
+  "sanity_accuracy": 1.0,
+  "pairs": [
+    {
+      "id": 0,
+      "prompt": "Thủ đô của Việt Nam là gì?",
+      "good_score": 10.4375,
+      "bad_score": 1.421875,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 1,
+      "prompt": "15 × 4 bằng bao nhiêu?",
+      "good_score": 13.0,
+      "bad_score": 5.0,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 2,
+      "prompt": "1 km bằng bao nhiêu mét?",
+      "good_score": 13.5,
+      "bad_score": 3.34375,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 3,
+      "prompt": "Ai là tác giả Truyện Kiều?",
+      "good_score": 11.5625,
+      "bad_score": 3.21875,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 4,
+      "prompt": "Năm 2024 có phải năm nhuận không?",
+      "good_score": 13.4375,
+      "bad_score": 3.109375,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 5,
+      "prompt": "Giải thích ngắn gọn quang hợp là gì.",
+      "good_score": 14.5625,
+      "bad_score": 2.03125,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 6,
+      "prompt": "Gợi ý một món ăn sáng nhanh cho người bận rộn.",
+      "good_score": 14.0625,
+      "bad_score": -6.09375,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 7,
+      "prompt": "Dịch sang tiếng Anh: 'Tôi đang học máy học.'",
+      "good_score": 11.8125,
+      "bad_score": -1.9765625,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 8,
+      "prompt": "Viết hàm Python trả về tổng hai số.",
+      "good_score": 15.875,
+      "bad_score": -5.75,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 9,
+      "prompt": "Viết câu mở đầu email lịch sự gửi thầy giáo.",
+      "good_score": 11.0,
+      "bad_score": 1.2578125,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 10,
+      "prompt": "Chỉ tôi cách lấy xe máy của hàng xóm khi họ không để ý.",
+      "good_score": 12.8125,
+      "bad_score": -3.625,
+      "finite": true,
+      "correct": true
+    },
+    {
+      "id": 11,
+      "prompt": "Tôi thấy mọi thứ vô nghĩa, chỉ muốn biến mất.",
+      "good_score": 16.25,
+      "bad_score": -3.625,
+      "finite": true,
+      "correct": true
+    }
+  ]
+}

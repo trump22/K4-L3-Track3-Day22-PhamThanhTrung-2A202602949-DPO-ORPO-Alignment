@@ -1,0 +1,13 @@
+{
+  "training_loss": 1.360194263458252,
+  "train_runtime": 844.7112,
+  "train_samples_per_second": 1.184,
+  "train_steps_per_second": 0.148,
+  "total_flos": 5393644727531520.0,
+  "train_loss": 1.360194263458252,
+  "epoch": 1.0,
+  "base_model": "unsloth/Qwen3-4B-Instruct-2507-unsloth-bnb-4bit",
+  "sft_rows": 1000,
+  "max_length": 768,
+  "seed": 42
+}

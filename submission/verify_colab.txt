@@ -1,0 +1,13 @@
+==> Verifying submission at /content/lab22
+
+Optional (bonus):
+  · NB3b variants
+  · NB5 GGUF
+  · NB6 benchmark
+  · NB7 GRPO
+  · β-sweep
+
+✓ Core checks passed. Push your repo and paste the URL into the LMS.
+
+
+Validator SHA-256: 3f21c251254d54ff8e88014010b8215afed367cba0aeecbd7e1b8492eef9583d
